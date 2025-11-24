@@ -1,0 +1,1 @@
+## 1. in the vite.config.ts I have to add the ssr 
